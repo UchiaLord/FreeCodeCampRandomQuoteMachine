@@ -1,0 +1,48 @@
+.quote-box {
+  max-width: 600px;
+  margin: 50px auto; /* Center the box and add some top margin */
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.quote-text {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.quote-author {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.quote-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.quote-button:hover {
+  background-color: #0056b3;
+}
+
+#tweet-quote {
+  margin-left: 10px; /* Add some spacing between buttons */
+  background-color: #1da1f2; /* Use Twitter's color for the Tweet button */
+}
+
+#tweet-quote:hover {
+  background-color: #1576b5;
+}
