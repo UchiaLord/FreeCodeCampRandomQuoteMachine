@@ -1,6 +1,6 @@
 {
-  "homepage": "http://uchialord.github.io/randomquotemachine",
-  "name": "randomquotemachine",
+  "homepage": "http://uchialord.github.io/freecodecamprandomquotemachine",
+  "name": "freecodecamprandomquotemachine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
