@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/freecodecamprandomquotemachine/static/css/main.364e1193.css",
-    "main.js": "/freecodecamprandomquotemachine/static/js/main.38e088aa.js",
-    "static/js/787.2646f138.chunk.js": "/freecodecamprandomquotemachine/static/js/787.2646f138.chunk.js",
-    "index.html": "/freecodecamprandomquotemachine/index.html",
-    "main.364e1193.css.map": "/freecodecamprandomquotemachine/static/css/main.364e1193.css.map",
-    "main.38e088aa.js.map": "/freecodecamprandomquotemachine/static/js/main.38e088aa.js.map",
-    "787.2646f138.chunk.js.map": "/freecodecamprandomquotemachine/static/js/787.2646f138.chunk.js.map"
+    "main.css": "/freecodecampclock/static/css/main.5f5bd458.css",
+    "main.js": "/freecodecampclock/static/js/main.bafc9a5b.js",
+    "static/js/787.b8332fa3.chunk.js": "/freecodecampclock/static/js/787.b8332fa3.chunk.js",
+    "index.html": "/freecodecampclock/index.html",
+    "main.5f5bd458.css.map": "/freecodecampclock/static/css/main.5f5bd458.css.map",
+    "main.bafc9a5b.js.map": "/freecodecampclock/static/js/main.bafc9a5b.js.map",
+    "787.b8332fa3.chunk.js.map": "/freecodecampclock/static/js/787.b8332fa3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.364e1193.css",
-    "static/js/main.38e088aa.js"
+    "static/css/main.5f5bd458.css",
+    "static/js/main.bafc9a5b.js"
   ]
 }
